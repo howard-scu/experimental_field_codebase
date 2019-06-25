@@ -1,0 +1,16 @@
+ObjectType = Image
+NDims = 3
+BinaryData = True
+BinaryDataByteOrderMSB = False
+CompressedData = True
+CompressedDataSize = 288
+TransformMatrix = 1 0 0 0 1 0 0 0 1
+Offset = -117.565 -122.11 46.3324
+CenterOfRotation = 0 0 0
+AnatomicalOrientation = RAI
+ElementSpacing = 1.875 1.875 6.5
+DimSize = 128 128 1
+ElementType = MET_USHORT
+ElementDataFile = LOCAL
+xœíÑKnÃ0DAéş—Nˆ@FV1}zÈ©7;îª¹m’$I’$I’$I:Ûş}]Û_÷÷ÛZíÛoåû[©OÜëmğ_ıœÑÏ¿ÀYıÜ\¡Ÿw«ôs.p¥~¾®ÖÏ¶Á=şY¸K?Çwêë/p·¾öOè+/ğ”¿æÏé+.ğ¬¿ÚÏû+-ĞóWY ¥ç¯±@oRÏŸ_€Ÿ¿ïi;?r´<ëO»Ó¤ÕüÙÒæ¬?-æÏ.öògHkùùùùùùùùùùùûúŸ.íåOêù+-*íæOêkø³¥õiz
+õÖzëG½õ£ŞúQoı¨³ı¨³ı§Îö£ŞúÑ'²ÕìGçı+ôşo×µ­/”$I’$I’$IªĞ4B
