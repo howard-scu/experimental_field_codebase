@@ -1,0 +1,6 @@
+.vs/
+.ipynb_checkpoints/
+log/
+log1/
+*.h5
+*.pb
